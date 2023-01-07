@@ -5,5 +5,4 @@ Instructions:
 1.) activate virtual env with: 
     source venv/bin/activate
     
-2.) pip install tk
-    pip install requests
+2.) pip install tk requests
