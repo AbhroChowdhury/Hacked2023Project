@@ -1,4 +1,4 @@
-# Hacked2023Project
+Receipt Scanner Interface Project
 Description to be added soon
 
 Instructions:
